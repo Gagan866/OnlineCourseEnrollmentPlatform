@@ -40,6 +40,7 @@ def enroll_student(student,courses):
                 print("Successfully enrolled")
                 all_students.append(student)
                 students_Java.append(student)
+                return "Student added to java"
             else:
                 print("Password is not strong")
         else:
