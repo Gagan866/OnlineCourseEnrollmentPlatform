@@ -64,6 +64,7 @@ if __name__ == "__main__":
     enroll_student("student1","Python")
     enroll_student("student2","Java")
     enroll_student("student3","Python")
+    enroll_student("student4","Java")
     enrolled_students()
     enrolled_student_python()
     enrolled_student_java()
